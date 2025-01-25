@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: 
+
+User-agent: *
+Disallow: 
+
+Sitemap: https://jakarta-news.github.io/news/sitemap.xml
